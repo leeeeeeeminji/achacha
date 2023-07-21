@@ -1,0 +1,66 @@
+@import url(//fonts.googleapis.com/earlyaccess/jejugothic.css);
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+
+body { font-family: 'Jeju Gothic', sans-serif;
+	   background-color : #f4d568;
+	 }
+header { padding : 3px;}
+h1 { padding : 5px;
+	 font-size : 40px;
+	 text-align : center;
+	 letter-spacing : 10px;
+	 font-family: 'Jua', sans-serif;
+	 }
+fieldset { width : 60%;
+		   border-radius : 50px;
+		   border : 3px solid black;
+		   height : 650px;
+		   background-color : white;
+		   overflow : auto;
+		}
+fieldset::-webkit-scrollbar { width : 3px;}
+input[type='button'] { width : 150px;
+					   height : 50px;
+					   background-color : #f4d568;
+					   font-size : 20px;
+					   font-family: 'Jeju Gothic', sans-serif;
+					   border-radius : 50px;
+}
+input[type='button']:active {
+		background-color : #e3b0f0;
+}
+#display_1 {
+			display : inline-block;
+			width : 50%;
+			float : left;
+			}
+#display_2 {
+			display : inline-block;
+			width : 50%;
+			float : right;
+			}
+table { border-collapse : collapse;
+		text-align : center;
+}
+legend { font-size : 40px;
+}
+.list_img {
+		width : 110px;
+		height : 130px;
+		border : 2px solid black;
+}
+#list tr { 
+	border-bottom : 2px dashed #f0d5f7;
+}
+#phone {
+   width : 70px;
+   height : 30px;
+   background-color : #f0d5f7;
+   font-size : 11px;
+   font-family: 'Jeju Gothic', sans-serif;
+   border-radius : 10px;
+}
+video {
+		width : 350px; 
+		height : 450px;
+}
