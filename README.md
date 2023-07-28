@@ -21,7 +21,7 @@
 </p>
 
 <p>
-  어린이 승합차량 갇힘사고 얼굴 인식 코드
+  <b>어린이 승합차량 갇힘사고 얼굴 인식 코드</b><br>
   https://github.com/leeeeeeeminji/achacha_code
 </p>
 <br>
